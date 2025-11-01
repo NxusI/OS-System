@@ -12,10 +12,6 @@ app.get('/', (req, res) => {
 res.send('Protótipo OS')
 });
 
-app.get('/ordens', async (req, res) => {
-res.send('Lista de Ordens (TBD)')
-});
-
 app.use('/api/ordens', osRoutes);
 
 app.listen(PORT, () => {
