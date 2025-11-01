@@ -51,9 +51,9 @@ O sistema utilizará uma arquitetura moderna baseada em JavaScript, com foco em 
 
 | Componente | Tecnologia |
 | :--- | :--- |
-| **Frontend** | [ ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ](https://nextjs.org/) [ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ](https://react.dev/) |
-| **UI/UX** | [ ![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=react&logoColor=white) ](https://ui.shadcn.com/)  [Lucide Icons](https://lucide.dev/icons/)|
-| **Backend** | [ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ](https://nodejs.org/en/download/) [ ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ](https://expressjs.com/) |
+| **Frontend** | [ ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ](https://nextjs.org/) + [ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ](https://react.dev/) |
+| **UI/UX** | [ ![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=react&logoColor=white) ](https://ui.shadcn.com/) + [Lucide Icons](https://lucide.dev/icons/)|
+| **Backend** | [ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ](https://nodejs.org/en/download/) + [ ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ](https://expressjs.com/) |
 | **Banco de Dados** | [ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ](https://dev.mysql.com/downloads/) |
 | 
 ### Frontend
