@@ -1,24 +1,54 @@
+<a name="inicio">
 # ⚙️ SIG-Manutenção: Sistema Integrado de Gestão da Célula de Manutenção
 
-<p align="center">
-  <img src="assets/NomeEquipeFull.svg" alt="Logomarca da Equipe Nexus One" width="200"/>
-</p>
+###### Keywords: Projeto Integrado - Nexus One - Sistemas e Mídias Digitais - Universidade Federal do Ceará
+
+<a name="sobre">
 
 ## 📝 Sobre o Projeto
 
-O **SIG-Manutenção** é um Sistema Integrado de Gestão desenvolvido para o **Instituto Robótica Sustentável**, uma ONG com foco em educação e sustentabilidade tecnológica.
+> O **SIG-Manutenção** é um Sistema Integrado de Gestão desenvolvido para o **Instituto Robótica Sustentável**, uma ONG com foco em educação e sustentabilidade tecnológica.
 
 ### O Desafio
-A célula de Manutenção da ONG, responsável por gerar receita através de serviços de manutenção de hardware e fornecer insumos para as atividades educativas, carecia de um sistema unificado. Esta ausência resultava em:
+> A célula de Manutenção da ONG, responsável por gerar receita através de serviços de manutenção de hardware e fornecer insumos para as atividades educativas, carecia de um sistema unificado. Esta ausência resultava, entre outras coisa, em:
 * Fluxo de atendimento informal e ineficiente (contato via WhatsApp/presencial).
 * Falta de registro formal de prazos e garantias (3 dias para diagnóstico, 3 meses de garantia informal).
 * Inexistência de controle e documentação digitalizada de Ordens de Serviço (OS).
 * Dificuldade em realizar análises financeiras (receita, gastos e lucro da célula).
 
 ### A Solução
-O SIG-Manutenção nasce para digitalizar e otimizar todos os processos da Célula de Manutenção. O sistema permitirá o **registro unificado** de Ordens de Serviço (internas e externas), o **gerenciamento de todo o ciclo de vida do serviço** e a **análise de desempenho financeiro**, promovendo transparência e profissionalismo na gestão.
+> O SIG-Manutenção nasce para digitalizar e otimizar todos os processos da Célula de Manutenção. O sistema permitirá o **registro unificado** de Ordens de Serviço (internas e externas), o **gerenciamento de todo o ciclo de vida do serviço** e a **análise de desempenho financeiro**, promovendo transparência e profissionalismo na gestão.
 
 ---
+
+<a name="equipe"></a>
+
+## 🤝 Equipe
+
+Este projeto é desenvolvido pela equipe **Nexus One** da **Universidade Federal do Ceará (UFC Virtual)**.
+
+* **🔗 Perfil da Organização no GitHub:** [Link do Profile da Organização]
+* **📄 Membros e Funções:** Consulte o README da Organização para a lista completa de membros e orientadores.
+
+---
+
+## :busts_in_silhouette: Equipe Nexus One
+
+| **NOME** | **FUNÇÃO** | **GitHub** |
+| :--- | :--- | :--- |
+| Brunna Raiany Moura Dos Santos | Design - prototipaçao | [GitHub](https://github.com/brunnaraiany) |
+| Fernando De Oliveira Barros | Design - Prototipaçao - Front | [GitHub](https://github.com/fernandobarolli) |
+| Gabriel Vitor Sales Nascimento | Banco de Dados - Back | [GitHub](https://github.com/PokeGV) |
+| Maria Leydiane De Melo Conceição | Gestão - Design - Prototipaçao - Front - Back | [GitHub](https://github.com/l4addy) |
+| Samuel Bruno Silva Secunde | Banco de Dados - Back | [GitHub](https://github.com/samuelsecunde) |
+| Túlio de Oliveira Vasconcelos | Design - Prototipaçao - Front | [GitHub](https://github.com/tuliolivas) |
+ 
+ ---
+
+<a name="license"></a>
+
+## :memo: Licença
+Este código está sobre a licença GNU GPL 3.0. Para mais informações, veja o [LICENSE](https://github.com/Servy-Sem-Parar/projetointegrado-SMD-Servy/blob/b08aef3957dea73682f38ad95597223cbdb51267/LICENSE).
 
 ## 🛠️ Tecnologias Utilizadas (Tech Stack)
 
@@ -45,62 +75,7 @@ O SIG-Manutenção nasce para digitalizar e otimizar todos os processos da Célu
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-### Pré-requisitos
-* [Pré-requisito 1, ex: Node.js 18+]
-* [Pré-requisito 2, ex: Python 3.10+]
-* [Pré-requisito 3, ex: Docker (Opcional)]
-
-### Instalação e Configuração
-
-1.  **Clonar o Repositório:**
-    ```bash
-    git clone [https://github.com/Nexus-One/SIG-Manutencao.git](https://github.com/Nexus-One/SIG-Manutencao.git)
-    cd SIG-Manutencao
-    ```
-
-2.  **Configurar o Backend:**
-    ```bash
-    # (Exemplo) Instalar dependências
-    cd backend
-    pip install -r requirements.txt
-    
-    # Criar e configurar o arquivo .env
-    cp .env.example .env 
-    # (Configurar a conexão com o banco de dados)
-    ```
-
-3.  **Configurar o Frontend:**
-    ```bash
-    # (Exemplo) Instalar dependências
-    cd ../frontend
-    npm install
-    ```
-
-4.  **Iniciar Aplicação:**
-    ```bash
-    # (Exemplo) Iniciar o Backend
-    cd ../backend
-    python app.py 
-    
-    # (Exemplo) Iniciar o Frontend
-    cd ../frontend
-    npm start
-    ```
-
----
-
 ## 🚧 Status do Projeto e Contribuição
 
 * **Status:** 🚧 Em Desenvolvimento (Fase de [Design/Protótipo/Implementação Inicial])
 * **Contribuição:** Se você faz parte da equipe Nexus One, por favor, siga o nosso **fluxo de trabalho de branches** e o **padrão de commits semânticos**.
-
----
-
-## 🤝 Equipe
-
-Este projeto é desenvolvido pela equipe **Nexus One** da **Universidade Federal do Ceará (UFC Virtual)**.
-
-* **🔗 Perfil da Organização no GitHub:** [Link do Profile da Organização]
-* **📄 Membros e Funções:** Consulte o README da Organização para a lista completa de membros e orientadores.
