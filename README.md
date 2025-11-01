@@ -55,7 +55,7 @@ O sistema utilizará uma arquitetura moderna baseada em JavaScript, com foco em 
 | **UI/UX** | [ ![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=react&logoColor=white) ](https://ui.shadcn.com/) + [Lucide Icons](https://lucide.dev/icons/)|
 | **Backend** | [ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ](https://nodejs.org/en/download/) + [ ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ](https://expressjs.com/) |
 | **Banco de Dados** | [ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ](https://dev.mysql.com/downloads/) |
-| 
+ 
 ### Frontend
 > Utiliza o framework Next.js e React, com bibliotecas ShadCN/UI e Lucide Icons para componentes modernos e acessíveis.
 
@@ -80,7 +80,8 @@ O sistema utilizará uma arquitetura moderna baseada em JavaScript, com foco em 
 
 ---
 
-## 🚧 Status do Projeto e Contribuição
+## 🚧 Status do Projeto
 
 * **Status:** 🚧 Em Desenvolvimento (Fase de [Design/Protótipo/Implementação Inicial])
-* **Contribuição:** Se você faz parte da equipe Nexus One, por favor, siga o nosso **fluxo de trabalho de branches** e o **padrão de commits semânticos**.
+
+---
