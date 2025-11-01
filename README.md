@@ -16,6 +16,13 @@
     - [Backend](#backend)
     - [Banco de Dados](#banco-de-dados)
     - [Integração](#integração)
+  - [✨ Principais Funcionalidades](#-principais-funcionalidades)
+    - [🔑 Módulo de Autenticação e Gestão de Usuários](#-módulo-de-autenticação-e-gestão-de-usuários)
+    - [👤 Módulo de Cadastro e Início de Atendimento](#-módulo-de-cadastro-e-início-de-atendimento)
+    - [⚙️ Gestão de Fluxo e Status](#️-gestão-de-fluxo-e-status)
+    - [🧾 Ordem de Serviço (OS) e Finalização](#-ordem-de-serviço-os-e-finalização)
+    - [📨 Comunicação Automatizada](#-comunicação-automatizada)
+    - [📊 Dashboard Gerencial](#-dashboard-gerencial)
   - [📄 Documentação Técnica](#-documentação-técnica)
   - [🚧 Status do Projeto](#-status-do-projeto)
 
