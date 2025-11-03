@@ -88,7 +88,7 @@ O sistema utilizará uma arquitetura moderna baseada em JavaScript, com foco em 
 
 ### Teste das Tecnologias
 
-> A prova de conceito inicial foi desenvolvida utilizando Next.js para o frontend e Node.js com Express.js para o backend, demonstrando a viabilidade técnica do projeto.
+> Uma prova de conceito inicial foi desenvolvida utilizando as tecnologias indicadas, demonstrando a viabilidade técnica do projeto.
 
 [A demonstração da prova de conceito pode ser acessada aqui.](https://github.com/NxusI/Teste-Tecnologias)
 
